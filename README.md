@@ -6,6 +6,9 @@ The goal of this project is **deep understanding**, not performance or accuracy.
 
 Only **NumPy** and **SciPy** are used for numerical operations and convolution utilities.
 
+📄 **Download the PDF:**  
+[THINGS TO LEARN FOR BUILDING A BASIC CNN FROM SCRATCH](./THINGS%20TO%20LEARN%20FOR%20BUILDING%20A%20BASIC%20CNN%20FROM%20SCRATCH.pdf)
+
 ---
 
 ## 🚀 Project Motivation
